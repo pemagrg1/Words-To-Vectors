@@ -7,4 +7,3 @@ Various ways to convert word to vectors.
 5. glove_w2v.py <br>
 
 
-README.md
