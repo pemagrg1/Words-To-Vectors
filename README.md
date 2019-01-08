@@ -4,5 +4,5 @@ Various ways to convert word to vectors.
 2. GENSIM_bin.py
 3. Hashing_vectorizer.py
 4. count_vectorizer.py
-5. glove_w2v.py
+5. glove_w2v.py <br>
 README.md
