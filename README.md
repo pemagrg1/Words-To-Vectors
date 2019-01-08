@@ -5,4 +5,6 @@ Various ways to convert word to vectors.
 3. Hashing_vectorizer.py
 4. count_vectorizer.py
 5. glove_w2v.py <br>
+
+
 README.md
