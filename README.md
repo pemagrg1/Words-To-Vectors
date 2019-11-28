@@ -1,3 +1,6 @@
+Created Date: 16 Feb 2018
+
+
 # WaysToConvertWord2Vec
 Various ways to convert word to vectors.
 1. GENSIM_WORD2VEC.py	
